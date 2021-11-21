@@ -1,0 +1,9 @@
+Main concept: synced collaborative online live music looping
+
+Features:
+    - first loop on your machine, private; once 'uploaded' adds to the running loop for everyone
+    - midi incorporation (real instruments)
+    - sequencer-style drum loops, live editable by all players
+    - some way to upload and trigger samples
+    - ability to queue entrances
+    - master player - true live streaming to other players
